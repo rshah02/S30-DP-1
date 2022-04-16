@@ -1,3 +1,6 @@
+// T.C O(n)
+// S.C O(1)
+
 class Solution {
     int skip;
     public int rob(int[] nums) {        
